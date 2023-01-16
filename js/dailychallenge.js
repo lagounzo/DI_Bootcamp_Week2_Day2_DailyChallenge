@@ -24,6 +24,13 @@ if (wordNot === -1) {
 
 
 ////////////////////////////////////////////////
+/**
+  Correcteur: Yannick GOUGUIA 
+  Merci de revoir ce code. 
+     il n'ya aucun code dans les case
+
+*/
+
 
 // deuxieme methode avec les etapes
 
